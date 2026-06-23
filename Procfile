@@ -1,1 +1,1 @@
-worker: python main.py
+worker: python asia_bazar_bot.py
